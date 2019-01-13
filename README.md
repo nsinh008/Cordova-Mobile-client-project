@@ -1,4 +1,3 @@
 # Online-Bookstore
-An E-commerce project for online bookstore
+A mobile client for online bookstore e-com website using cross platform framework cordova (implemented for android)
 
-Used Tomcat apache server, REST webservices using JERSEY Client, and Hibernate.
